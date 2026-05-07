@@ -71,7 +71,7 @@ class MohammedKamal:
 ### ⚙️ Backend
 - Node.js & Express.js
 - REST APIs & Authentication
-- MongoDB & PostgreSQL
+- MongoDB & Firebase
 - Scalable architecture patterns
 
 </td>
@@ -104,8 +104,6 @@ class MohammedKamal:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ### Machine Learning & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
